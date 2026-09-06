@@ -54,5 +54,19 @@ print(passing_marks)
 
 
 
-CSV file - marks, stu
+# CSV file - marks, stu
 
+
+# try:
+#    #something is happening
+# except:
+#     #catch it fAil loudly, gracefully
+
+
+
+def get_score(row):
+    try:
+        return int(row)
+    except (KeyError, TypeError):
+        return None
+print(get_score(""))
