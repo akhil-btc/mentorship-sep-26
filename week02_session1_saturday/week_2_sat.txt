@@ -1,0 +1,36 @@
+1. code crashes. Bad, you know something is wrong
+2. Your code runs, but fails quitely. no body notices. other people loose confidence
+Your code handles what it can  and tell the user the user it cannot.
+
+
+
+stock price - 1 month before current month, 15 days nil - predict newxt day
+1. assume nil to be 0
+2. skip the absent data
+
+
+15 days data current month
+
+fill for 15 days - last 15 days data - 23,..25....27, calclute the median of curernt;s month data - fill it for 15 days
+
+
+
+
+Data -> student marks
+behaviour - computations on it
+
+gorup. those - > class
+
+
+ -- sholka , shaurya
+
+
+ Student - name shloka = marks ={}, marks ={"math": 90}
+
+ Refactor you anallyse marks..in classes
+
+
+ pizza - secret ingredient, tomotaoes, yeast, cheese,..etc etc..
+
+
+ virtual envirionment - [seprate kitchen for your recipe, ]
