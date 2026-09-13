@@ -34,3 +34,14 @@ gorup. those - > class
 
 
  virtual envirionment - [seprate kitchen for your recipe, ]
+
+
+
+
+ before
+
+ student -= name and marks, add marks
+
+ classroom - name, students, aversged
+
+ class within a class - call

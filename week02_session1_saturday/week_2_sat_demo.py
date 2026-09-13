@@ -20,14 +20,37 @@ class Student:
     def __str__(self):
         """Return a human-readable summary of this student."""
         return f"{self.name}: total={self.total()}, average={self.average()}"
+    def highest_marsk():
+        
 
+
+
+a = 3
+b = 5
+print(a+b)
+
+Data -> student marks
+behaviour - computations on it
+
+class = Adder
+
+add = Adder(2, 3)
+print(add.add_two_numbers())
 
 shloka = Student("Shloka")
+shaurya = Student("Shaurya")
+
 shloka.add_mark("math", 90)
 shloka.add_mark("science", 88)
-print(shloka)
-# print(shloka.average())
+
+
+shaurya.add_mark("history", 84)
+shaurya.add_mark("art", 87)
+# print(shloka)
+print(shloka.average())
+print(shaurya.average())
 
 
 a = [1, 2, 3]
 print(a)
+a = list()
