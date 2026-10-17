@@ -1,0 +1,8 @@
+LLM - well read parrot, it has access of information on public internet
+How it answers?
+why is the color  of the sky? - tokens
+
+
+TREAT LLM MODELS AS TEAMMATES NOT A VNDING MACHINE
+
+FIRST PROMPT IS ALSWYS A DRAFT.
