@@ -6,3 +6,19 @@ why is the color  of the sky? - tokens
 TREAT LLM MODELS AS TEAMMATES NOT A VNDING MACHINE
 
 FIRST PROMPT IS ALSWYS A DRAFT.
+
+1. TOKEN - Tokens are the unit of everything. When you pay for an LLM API, you pay per token. When the model ‘thinks,’ it thinks one token at a time.
+2.CONTEXT WINDOW - 
+
+300k tokens.
+
+my fruit is apple.
+
+>300k
+
+what was 
+3.NEXT TOKEN PREDITION
+4.HALLUCIANTION - 
+Who won nobel prize in 1764
+
+We 
